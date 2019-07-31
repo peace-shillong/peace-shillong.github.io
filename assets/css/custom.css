@@ -49,7 +49,7 @@
 .value-description {
   opacity: .8;
   font-weight: 400;
-  
+  font-family: Roboto, Arial;
 }
 
 /* Help
@@ -78,7 +78,7 @@
 .minor{font-size:15px;font-weight:bold;};
 .fixed{position:fixed;}
 .border_left{border-left:thin solid rgb(0,0,0);padding-left:10px;}
-.card{background-color:#efefef;color:black;padding:15px;border-radius:1px;box-shadow:2px 2px 2px rgba(0, 0, 0, .2);margin-top:5px;}
+.card{background-color:#fff;color:black;padding:15px;border-radius:1px;box-shadow:2px 2px 2px rgba(0, 0, 0, .2);margin-top:5px;}
 /* Bigger than 550 */
 @media (min-width: 550px) {
   .section {
@@ -168,3 +168,10 @@ h5
 {	
 	font-family: Roboto,Raleway;	
 }
+a{color:black; font-weight:bold;font-style:italic;}
+a:hover{text-decoration: underline;}
+.dark-links a{color:white;}
+h5.dark-links a{color:white;text-decoration:none;} 
+h5.dark-links a:hover{color:#3bb5ff;text-decoration:underline;} 
+.img-res{width:100%;height:auto;}
+.text-center{text-align:center;}
