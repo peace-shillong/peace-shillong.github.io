@@ -1,6 +1,7 @@
 # peace-shillong.github.io
 
 Updated : 5:57 PM 25/11/2017
+New Update :6:51 PM 01/08/2019
 
 This is my Personal Github Page.
 Build using HTML and CSS only.
