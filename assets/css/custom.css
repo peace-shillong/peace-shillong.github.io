@@ -69,7 +69,7 @@
 .categories .section-description { 
   margin-bottom: 4rem;
 }
-.bg{background-color:#efefef;padding:20px;background:url("../images/background.jpg");color:#121212;background-attachment:fixed;background-position:center top;}
+.bg{background-color:#232323;padding:20px;background:url("../images/background.jpg");color:#efefef;background-attachment:fixed;background-position:center top;}
 .bg h4{text-shadow: 1px 1px 2px #121212;}
 .bg1{background-color:#DAE3EF;color:black;padding-top:4%;padding-bottom:4%;}/*rgb(0,162,232)*/
 .bg2{background-color:#222;color:white;padding-top:4%;padding-bottom:4%;}
