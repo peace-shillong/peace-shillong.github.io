@@ -10,7 +10,8 @@ Build using HTML and CSS only.
 Using the Skeleton-CSS framework, a lightweight, responsive CSS framework under 12KB. 
 
 
-
+## IMPORTANT NOTE
+This is a sample website, You can fork or clone or download the zip file and even post Issues, but I'm not gonna be accepting any pull requests.
 
 ## License
    Copyright 2017 Kyrshanlang Raplang Dkhar
