@@ -368,6 +368,48 @@ section {
   color: var(--primary-color);
 }
 
+.highlight-education {
+  font-weight: 700;
+  color: var(--text-dark);
+}
+
+/* Awards Section */
+.awards-list {
+  margin-top: 1.5rem;
+}
+
+.award-item {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: rgba(30, 174, 219, 0.05);
+  border-left: 4px solid var(--primary-color);
+  border-radius: 4px;
+  transition: var(--transition);
+}
+
+.award-item:hover {
+  background: rgba(30, 174, 219, 0.1);
+  transform: translateX(5px);
+}
+
+.award-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  margin-bottom: 0.75rem;
+}
+
+.award-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.award-field {
+  font-size: 0.95rem;
+  color: #555;
+}
+
 /* Quotes Section */
 blockquote {
   font-style: italic;
@@ -478,6 +520,15 @@ footer {
 
   .book-content {
     grid-template-columns: 1fr;
+  }
+
+  .book-details {
+    text-align: center;
+  }
+
+  .book-details .btn {
+    display: block;
+    margin-bottom: 0.75rem;
   }
 
   .hero {
