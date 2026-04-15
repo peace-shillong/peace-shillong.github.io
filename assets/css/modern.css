@@ -105,7 +105,7 @@ a:hover {
 .hero {
   padding: 6rem 0;
   background: linear-gradient(135deg, #737373 0%, #555 100%);
-  background-image: url('assets/images/background.jpg');
+  background-image: url('assets/images/background.webp');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -232,7 +232,7 @@ section {
 .bg {
   background-color: #737373;
   padding: 20px;
-  background: url(../images/background.jpg) no-repeat center top;
+  background: url(../images/background.webp) no-repeat center top;
   background-attachment: fixed;
   color: #efefef;
 }
